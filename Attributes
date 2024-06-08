@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Links</h1>
+    <hr>
+    <h2>You shall click any of these links to visit their pages</h2>
+    
+    <pre>
+        <time datetime="2024-06-08T23:09+0530">Saturday, June 8th at 11pm</time>
+        <br>
+        <q>Technology is best when it brings people together.</q>
+                                                             - Matt Mullenweg
+        
+        <ul>
+        <li><b>Google:</b></li>
+          
+          <a href="https://google.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" height="200" width="200"></a>
+          <br>Click the image to visit Google
+          <p>Google is a global technology company renowned for its search engine, which is the most widely used in the world.<br> It also offers a range of services and products including online advertising, cloud computing, and software solutions.</p>
+        <li><b>ChatGPT:</b></li>
+        <a href="https://chatgpt.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/800px-ChatGPT_logo.svg.png" height="200" width="200"></a>
+        <br>Click the image to visit ChatGPT
+        <p>ChatGPT is an advanced language model developed by OpenAI, capable of understanding and generating human-like text based on the input it receives.<br> It is used in various applications such as virtual assistants, content creation, and customer support.</p>
+    </ul>
+
+    </pre>
+</body>
+</html>
